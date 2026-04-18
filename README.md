@@ -152,9 +152,9 @@ npm start
 
 **Gouli P. Sharath Kumar**
 - 📧 sharathgouli20@gmail.com
-- 💼 [LinkedIn](https://linkedin.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gouli-p-sharath-kumar-0794552b1/)
 - 🐙 [GitHub](https://github.com/goulipsharathkumar)
-- 📍 Hospet, Karnataka | Open to Bengaluru Roles
+- 📍 Hospet, Karnataka |
 
 ## 📄 License
 
