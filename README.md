@@ -4,7 +4,7 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) job portal and applic
 
 ## 🌐 Live Demo
 
-- **Frontend:** https://hireflow.vercel.app
+- **Frontend:** https://hireflow-red-kappa.vercel.app
 - **Backend:** https://hireflow-server-h26o.onrender.com
 
 ## 📸 Features
